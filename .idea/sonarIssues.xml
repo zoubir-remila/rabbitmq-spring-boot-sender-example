@@ -8,22 +8,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../receiver/src/main/java/com/receiver/receiver/config/ReceiverConfiguration.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../receiver/src/main/java/com/receiver/receiver/dto/UserDto.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../receiver/src/main/java/com/receiver/receiver/service/ReceiverService.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../receiver/src/main/resources/application.properties">
+        <entry key="$PROJECT_DIR$/README.md">
           <value>
             <set />
           </value>
@@ -69,6 +54,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../receiver/src/main/java/com/receiver/receiver/config/ReceiverConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../receiver/src/main/java/com/receiver/receiver/dto/UserDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../receiver/src/main/java/com/receiver/receiver/service/ReceiverService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../receiver/src/main/resources/application.properties">
           <value>
             <set />
           </value>
