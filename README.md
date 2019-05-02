@@ -94,4 +94,4 @@ If you haven't run your receiver(Consumer), you will find a message in the queue
 
 ## Receiver
 
-Link to our Receiver [rabbitmq-receiver](git@gitlab.com:zoubir/rabbitmq-receiver.git)
+Link to our Receiver [rabbitmq-receiver](https://gitlab.com/zoubir/rabbitmq-receiver)
