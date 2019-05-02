@@ -6,8 +6,16 @@ In a micro-service environment or any other distributed system you may come upon
 
 In this project We Create an event producer which is pretty straightforward. We make use of the RabbitTemplate provided by the AMQP starter and call the method convertAndSend() to send an event. The event in the code example only contains a String. If the message should contain a complex object, you can make use of message converters.
 
-The RabbitTemplate automatically uses the connection settings provided in the application.properties. 
+The RabbitTemplate automatically uses the connection settings provided in the application.properties.
 
+Including the Spring Boot AMQP Starter 
+```
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-amqp</artifactId>
+</dependency>
+```
+Our Service
 ```
 @Service
 public class ServiceSender {
@@ -87,4 +95,3 @@ If you haven't run your receiver(Consumer), you will find a message in the queue
 ## Receiver
 
 Link to our Receiver [rabbitmq-receiver](git@gitlab.com:zoubir/rabbitmq-receiver.git)
-
